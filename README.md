@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**sixonenine619/sixonenine619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate and motivated aspiring IT professional based in Durban, South Africa. I am eager to grow my career in software development and continuously improve my technical skills through real-world projects and collaboration.
 
-Here are some ideas to get you started:
+I enjoy building practical applications that solve real problems. I have experience working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 PHP & MySQL
+
+🔹 React & TypeScript
+
+🔹 JavaScript, HTML & CSS
+
+🔹 Android Development (Android Studio)
+
+🔹 Visual Studio Code
+
+I’ve worked on projects such as:
+
+📚 Library Management System (PHP & MySQL)
+
+✅ Online Task Management System (React, PHP, MySQL)
+
+📱 Android Apps like Tip Calculator and Music Player
